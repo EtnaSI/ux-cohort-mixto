@@ -1,8 +1,5 @@
 # Aplicación financiera
 ## Introducción
-
-### Fintech
-  
 Banqui es una fintech peruana que busca brindar una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Banqui inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
@@ -59,16 +56,17 @@ equipo de Banqui concluyó lo siguiente:
 
 ### Benchmarcking
 ![img-5](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/bench.jpg)
-
+### Competencia de Banqui en Perú
 ![img-7](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/compe.jpg)
 
 ## Diseño de la aplicación
 ![img-1](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/1.jpg)
-
 ![img-2](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/2.jpg)
-
+### Movimientos
 ![img-3](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/3.jpg)
+### Ahorros
 ![img-4](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/5.jpg)
+### Amigo Banqui
 ![img-4](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/4.jpg)
 
 

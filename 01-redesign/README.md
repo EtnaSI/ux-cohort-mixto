@@ -1,8 +1,5 @@
 # Aplicación financiera
 ## Introducción
-
-### Fintech
-  
 Banqui es una fintech peruana que busca brindar una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Banqui inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
@@ -43,17 +40,36 @@ equipo de Banqui concluyó lo siguiente:
 
 
 ## Objetivos iniciales del proyecto
+-Investigar a la competencia para obtener mayor informacion de que le falta a nuestro producto.
+-Validar los user persona propuestos por el cliente.
+-Identificar posibles nuevos usuarios.
+-Lograr alinear los objetivos del usuario con las metas del cliente.
+-Identificar pain points de los usuarios y encontrar la forma de resolverlos y mejorar su  experiencia.
+-Rediseñar la aplicación efectuando testing con usuarios.
+-Encontrar un diferenciador que haga que las personas empiecen a usar la app.
+-Buscar la manera de trabajar con productos financieros activos.
 
+## Research
+  Banqui ya contaba con un user persona
+  
+![img-6](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/user.png)
+
+### Benchmarcking
+![img-5](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/bench.jpg)
+### Competencia de Banqui en Perú
+![img-7](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/compe.jpg)
 
 ## Diseño de la aplicación
+![img-1](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/1.jpg)
+![img-2](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/2.jpg)
+### Movimientos
+![img-3](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/3.jpg)
+### Ahorros
+![img-4](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/5.jpg)
+### Amigo Banqui
+![img-4](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/4.jpg)
 
 
-## Sustento de las propuestas de diseño
-
-- El diseño de la aplicación tiene que cubrir los puntos requeridos por Banqui.
-- Todos los cambios realizados tienen que ser sustentados.
-- El diseño final hecho en Figma deberá comprender un Sistema de Diseño que
-  utilice componentes reutilizables.
 
 
 

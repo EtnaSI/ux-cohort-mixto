@@ -40,27 +40,29 @@ equipo de Banqui concluyó lo siguiente:
 
 
 ## Objetivos iniciales del proyecto
--Investigar a la competencia para obtener mayor informacion de que le falta a nuestro producto.
--Validar los user persona propuestos por el cliente.
+-Investigar a la competencia para obtener mayor informacion de que le falta a nuestro producto.  
+-Validar los user persona propuestos por el cliente.  
 -Identificar posibles nuevos usuarios.
--Lograr alinear los objetivos del usuario con las metas del cliente.
--Identificar pain points de los usuarios y encontrar la forma de resolverlos y mejorar su  experiencia.
--Rediseñar la aplicación efectuando testing con usuarios.
--Encontrar un diferenciador que haga que las personas empiecen a usar la app.
+-Lograr alinear los objetivos del usuario con las metas del cliente.  
+-Identificar pain points de los usuarios y encontrar la forma de resolverlos y mejorar su  experiencia.  
+-Rediseñar la aplicación efectuando testing con usuarios.  
+-Encontrar un diferenciador que haga que las personas empiecen a usar la app.  
 -Buscar la manera de trabajar con productos financieros activos.
 
 ## Research
-  Banqui ya contaba con un user persona
-  
+#### User Persona 
 ![img-6](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/user.png)
-
+Banqui ya contaba con un user persona,el cual después de la realización de entrevistas con 5 usuarios fue validado
 ### Benchmarcking
 ![img-5](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/bench.jpg)
 ### Competencia de Banqui en Perú
 ![img-7](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/compe.jpg)
 
 ## Diseño de la aplicación
+### Inicio
 ![img-1](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/1.jpg)
+### Registro
+### Operaciones
 ![img-2](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/2.jpg)
 ### Movimientos
 ![img-3](https://github.com/claudiacortezb/ux-cohort-mixto/blob/master/01-redesign/img/3.jpg)

@@ -46,7 +46,7 @@ equipo de Banqui concluyó lo siguiente:
 -Buscar la manera de trabajar con productos financieros activos.
 
 ## Research
-### Benchmarcking
+### Benchmarck
 Se realizó un análisis del mercado de fintech existentes en el mundo, para poder aprender de los demás y darnos cuenta de qué cosas ellos ven como importante en sus apps,cómo veían al usuario,qué objetivos ellos se planteaban tener,qué necesidades ellos consideraban que debían satisfacer y de qué manera las abordaban. Además del diseño que tiene cada una de estas.  
 
 
